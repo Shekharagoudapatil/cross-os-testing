@@ -22,4 +22,3 @@ steps:
   - run: flake8 --version
 
   - run: pytest --version
-```
